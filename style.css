@@ -14,9 +14,9 @@ body {
 	font-weight: bold;
 	margin: 0; padding: 0;
 	background: #fff;
-background: url("https://images.pexels.com/photos/37728/pexels-photo-37728.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-    background-size: auto;
-    background-repeat: no-repeat;
+	background: url("a.jpeg");
+        background-size: auto;
+        background-repeat: no-repeat;
 }
 
 h1 {
